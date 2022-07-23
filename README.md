@@ -1,8 +1,8 @@
-👋 Hi, I’m @FilPerolo.
-I’m interested in Financial Markets, Trading, Data Science & ML.
+👋 Hi, I’m Filippo Perolo.
+I just finished a Master of Engingeering in Computer Science and will soon graduate with a business school's Master of Science.
 
-🌱 I just graduated from a MEng in Data Science & ML and I'm currently poursuing a Msc in Finance.
-I’m always looking to collaborate on both corporate and entrepreneurial projects.
+🌱 My interests range from financial markets & trading to data science & machine learning.
+I am always looking to collaborate on entrepreneurial and business projects. I'm also looking for an internship starting in May 2023.
 
 📫 How to reach me : filippo.perolo@outlook.com
 
